@@ -6,7 +6,7 @@ int main(){
     scanf("%d", &a);
     // Add break point here using break 7
     printf("Enter a value for b: ");
-    scanf("%d", &a);
+    scanf("%d", &b);
     // Add break point here using break 10
     sum = a + b;
     // Add break point here using break 12
