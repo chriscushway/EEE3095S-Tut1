@@ -11,7 +11,7 @@ The aim of the tut is to get comfortable with using gdb
 To run the code you will first need to compile it.
 To compile the code use this command.
 
-```gcc -g main.c```
+```gcc main.c```
 
 To compile with debugging, run the command with the `-g` flag
 
