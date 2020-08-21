@@ -5,8 +5,6 @@ int main(){
     printf("Enter a value for a: ");
     scanf("%d", &a);
 
-    // This is not assigning to the correct var
-    // assign to b instead
     printf("Enter a value for b: ");
     scanf("%d", &a);
     sum = a + b;
